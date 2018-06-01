@@ -1,0 +1,10 @@
+﻿  PRO-K_Serial_Communication.cpp
+c:\users\tom_l\onedrive\hhs\jaar_3\pro-k\serial communication modbus\pro-k_serial_communication\pro-k_serial_communication\pro-k_serial_communication.cpp(98): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\tom_l\onedrive\hhs\jaar_3\pro-k\serial communication modbus\pro-k_serial_communication\pro-k_serial_communication\pro-k_serial_communication.cpp(125): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPCWSTR'
+  c:\users\tom_l\onedrive\hhs\jaar_3\pro-k\serial communication modbus\pro-k_serial_communication\pro-k_serial_communication\pro-k_serial_communication.cpp(125): note: consider using '%ls' in the format string
+  c:\users\tom_l\onedrive\hhs\jaar_3\pro-k\serial communication modbus\pro-k_serial_communication\pro-k_serial_communication\pro-k_serial_communication.cpp(125): note: consider using '%lls' in the format string
+  c:\users\tom_l\onedrive\hhs\jaar_3\pro-k\serial communication modbus\pro-k_serial_communication\pro-k_serial_communication\pro-k_serial_communication.cpp(125): note: consider using '%Ls' in the format string
+  c:\users\tom_l\onedrive\hhs\jaar_3\pro-k\serial communication modbus\pro-k_serial_communication\pro-k_serial_communication\pro-k_serial_communication.cpp(125): note: consider using '%ws' in the format string
+c:\users\tom_l\onedrive\hhs\jaar_3\pro-k\serial communication modbus\pro-k_serial_communication\pro-k_serial_communication\pro-k_serial_communication.cpp(127): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\tom_l\onedrive\hhs\jaar_3\pro-k\serial communication modbus\pro-k_serial_communication\pro-k_serial_communication\pro-k_serial_communication.cpp(127): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  PRO-K_Serial_Communication.vcxproj -> C:\Users\tom_l\OneDrive\HHS\Jaar_3\PRO-K\Serial communication ModBus\PRO-K_Serial_Communication\Debug\PRO-K_Serial_Communication.exe
